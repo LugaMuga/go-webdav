@@ -3,6 +3,8 @@ package caldav
 import (
 	"bytes"
 	"fmt"
+	"github.com/emersion/go-ical"
+	"github.com/lugamuga/go-webdav"
 	"mime"
 	"net/http"
 	"net/url"

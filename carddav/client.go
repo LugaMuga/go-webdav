@@ -3,6 +3,8 @@ package carddav
 import (
 	"bytes"
 	"fmt"
+	"github.com/emersion/go-vcard"
+	"github.com/lugamuga/go-webdav"
 	"mime"
 	"net"
 	"net/http"

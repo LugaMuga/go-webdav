@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/xml"
 	"fmt"
+	"github.com/emersion/go-ical"
 	"net/http"
 	"time"
 
