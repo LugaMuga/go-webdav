@@ -10,9 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/emersion/go-ical"
-	"github.com/lumamuga/go-webdav"
-	"github.com/lumamuga/go-webdav/internal"
+	"github.com/lugamuga/go-webdav/internal"
 )
 
 // Client provides access to a remote CardDAV server.

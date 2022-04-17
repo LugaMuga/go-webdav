@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lumamuga/go-webdav/internal"
+	"github.com/lugamuga/go-webdav/internal"
 )
 
 // HTTPClient performs HTTP requests. It's implemented by *http.Client.

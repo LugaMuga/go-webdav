@@ -7,9 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/emersion/go-ical"
-
-	"github.com/lumamuga/go-webdav/internal"
+	"github.com/lugamuga/go-webdav/internal"
 )
 
 // TODO: add support for multiple calendars
