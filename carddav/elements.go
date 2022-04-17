@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/LugaMuga/go-webdav/internal"
+	"github.com/lumamuga/go-webdav/internal"
 )
 
 const namespace = "urn:ietf:params:xml:ns:carddav"

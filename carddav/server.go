@@ -8,8 +8,8 @@ import (
 	"mime"
 	"net/http"
 
-	"github.com/LugaMuga/go-webdav/internal"
 	"github.com/emersion/go-vcard"
+	"github.com/lumamuga/go-webdav/internal"
 )
 
 // TODO: add support for multiple address books

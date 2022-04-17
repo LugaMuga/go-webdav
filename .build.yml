@@ -2,7 +2,7 @@ image: alpine/edge
 packages:
   - go
 sources:
-  - https://github.com/LugaMuga/go-webdav
+  - https://github.com/lugamuga/go-webdav
 tasks:
   - test: |
       cd go-webdav
