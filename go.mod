@@ -1,4 +1,4 @@
-module github.com/lumamuga/go-webdav
+module github.com/LugaMuga/go-webdav
 
 go 1.13
 

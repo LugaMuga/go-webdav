@@ -3,6 +3,7 @@ package caldav
 import (
 	"bytes"
 	"fmt"
+	"github.com/LugaMuga/go-webdav"
 	"mime"
 	"net/http"
 	"net/url"
@@ -10,9 +11,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/LugaMuga/go-webdav/internal"
 	"github.com/emersion/go-ical"
-	"github.com/lumamuga/go-webdav"
-	"github.com/lumamuga/go-webdav/internal"
 )
 
 // Client provides access to a remote CardDAV server.

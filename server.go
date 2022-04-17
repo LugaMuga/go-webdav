@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/lumamuga/go-webdav/internal"
+	"github.com/LugaMuga/go-webdav/internal"
 )
 
 // FileSystem is a WebDAV server backend.

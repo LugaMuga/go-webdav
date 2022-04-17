@@ -6,8 +6,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-
-	"github.com/lumamuga/go-webdav"
 )
 
 func main() {

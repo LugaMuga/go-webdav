@@ -11,9 +11,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/LugaMuga/go-webdav/internal"
 	"github.com/emersion/go-vcard"
-	"github.com/lumamuga/go-webdav"
-	"github.com/lumamuga/go-webdav/internal"
 )
 
 // Discover performs a DNS-based CardDAV service discovery as described in

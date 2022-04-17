@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/lumamuga/go-webdav/internal"
+	"github.com/LugaMuga/go-webdav/internal"
 )
 
 type LocalFileSystem string
