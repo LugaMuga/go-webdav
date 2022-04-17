@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/emersion/go-webdav/internal"
+	"github.com/lumamuga/go-webdav/internal"
 )
 
 const namespace = "urn:ietf:params:xml:ns:caldav"
